@@ -1,1 +1,2 @@
 Trabajo De POO
+Se agrego nueva funcion 
